@@ -10,6 +10,6 @@
         "@google/generative-ai": "^0.14.0"
     },
     "scripts": {
-        "start": "node --env-file=.env index.js"
+        "start": "node index.js"
     }
 }
